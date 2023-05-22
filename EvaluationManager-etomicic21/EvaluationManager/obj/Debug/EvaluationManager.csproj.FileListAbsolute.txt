@@ -1,0 +1,17 @@
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\bin\Debug\EvaluationManager.exe.config
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\bin\Debug\EvaluationManager.exe
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\bin\Debug\EvaluationManager.pdb
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\bin\Debug\DBLayer.dll
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.csproj.AssemblyReference.cache
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.FrmEvaluation.resources
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.FrmLogin.resources
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.FrmStudentReportView.resources
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.FrmStudents.resources
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.Properties.Resources.resources
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.csproj.CopyComplete
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.exe
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\obj\Debug\EvaluationManager.pdb
+C:\Users\foi.LABOS\Source\Repos\EvaluationManager-etomicic21\EvaluationManager\bin\Debug\DBLayer.pdb
